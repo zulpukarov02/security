@@ -63,7 +63,7 @@ class _PrankScreenState extends State<PrankScreen> {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          '🎉 С Днем Рождения, сестренка! 🎉',
+          '🎉 Ты самая красивая сестренка! 🎉',
           style: TextStyle(
               fontSize: 32, fontWeight: FontWeight.bold, color: Colors.purple),
           textAlign: TextAlign.center,
